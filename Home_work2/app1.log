@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-21T10:16:35.058714100Z</date>
+  <millis>1682072195058</millis>
+  <nanos>714100</nanos>
+  <sequence>0</sequence>
+  <logger>My log</logger>
+  <level>INFO</level>
+  <class>Home_work2.Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[0, 7, 8, 8, 2, 2, 9, 6, 0, 5]</message>
+</record>
+<record>
+  <date>2023-04-21T10:16:35.095747700Z</date>
+  <millis>1682072195095</millis>
+  <nanos>747700</nanos>
+  <sequence>1</sequence>
+  <logger>My log</logger>
+  <level>INFO</level>
+  <class>Home_work2.Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[0, 7, 8, 2, 8, 2, 9, 6, 0, 5]</message>
+</record>
+<record>
+  <date>2023-04-21T10:16:35.096748700Z</date>
+  <millis>1682072195096</millis>
+  <nanos>748700</nanos>
+  <sequence>2</sequence>
+  <logger>My log</logger>
+  <level>INFO</level>
+  <class>Home_work2.Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[0, 7, 8, 2, 2, 8, 9, 6, 0, 5]</message>
+</record>
+<record>
+  <date>2023-04-21T10:16:35.097749700Z</date>
+  <millis>1682072195097</millis>
+  <nanos>749700</nanos>
+  <sequence>3</sequence>
+  <logger>My log</logger>
+  <level>INFO</level>
+  <class>Home_work2.Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[0, 7, 8, 2, 2, 8, 6, 9, 0, 5]</message>
+</record>
+<record>
+  <date>2023-04-21T10:16:35.098750400Z</date>
+  <millis>1682072195098</millis>
+  <nanos>750400</nanos>
+  <sequence>4</sequence>
+  <logger>My log</logger>
+  <level>INFO</level>
+  <class>Home_work2.Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[0, 7, 8, 2, 2, 8, 6, 0, 9, 5]</message>
+</record>
+<record>
+  <date>2023-04-21T10:16:35.099752Z</date>
+  <millis>1682072195099</millis>
+  <nanos>752000</nanos>
+  <sequence>5</sequence>
+  <logger>My log</logger>
+  <level>INFO</level>
+  <class>Home_work2.Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[0, 7, 8, 2, 2, 8, 6, 0, 5, 9]</message>
+</record>
+<record>
+  <date>2023-04-21T10:16:35.100752900Z</date>
+  <millis>1682072195100</millis>
+  <nanos>752900</nanos>
+  <sequence>6</sequence>
+  <logger>My log</logger>
+  <level>INFO</level>
+  <class>Home_work2.Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[0, 7, 2, 8, 2, 8, 6, 0, 5, 9]</message>
+</record>
+<record>
+  <date>2023-04-21T10:16:35.101753700Z</date>
+  <millis>1682072195101</millis>
+  <nanos>753700</nanos>
+  <sequence>7</sequence>
+  <logger>My log</logger>
+  <level>INFO</level>
+  <class>Home_work2.Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[0, 7, 2, 2, 8, 8, 6, 0, 5, 9]</message>
+</record>
+<record>
+  <date>2023-04-21T10:16:35.102755700Z</date>
+  <millis>1682072195102</millis>
+  <nanos>755700</nanos>
+  <sequence>8</sequence>
+  <logger>My log</logger>
+  <level>INFO</level>
+  <class>Home_work2.Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[0, 7, 2, 2, 8, 6, 8, 0, 5, 9]</message>
+</record>
+<record>
+  <date>2023-04-21T10:16:35.103756500Z</date>
+  <millis>1682072195103</millis>
+  <nanos>756500</nanos>
+  <sequence>9</sequence>
+  <logger>My log</logger>
+  <level>INFO</level>
+  <class>Home_work2.Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[0, 7, 2, 2, 8, 6, 0, 8, 5, 9]</message>
+</record>
+<record>
+  <date>2023-04-21T10:16:35.104756300Z</date>
+  <millis>1682072195104</millis>
+  <nanos>756300</nanos>
+  <sequence>10</sequence>
+  <logger>My log</logger>
+  <level>INFO</level>
+  <class>Home_work2.Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[0, 7, 2, 2, 8, 6, 0, 5, 8, 9]</message>
+</record>
+<record>
+  <date>2023-04-21T10:16:35.105757200Z</date>
+  <millis>1682072195105</millis>
+  <nanos>757200</nanos>
+  <sequence>11</sequence>
+  <logger>My log</logger>
+  <level>INFO</level>
+  <class>Home_work2.Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[0, 2, 7, 2, 8, 6, 0, 5, 8, 9]</message>
+</record>
+<record>
+  <date>2023-04-21T10:16:35.106758900Z</date>
+  <millis>1682072195106</millis>
+  <nanos>758900</nanos>
+  <sequence>12</sequence>
+  <logger>My log</logger>
+  <level>INFO</level>
+  <class>Home_work2.Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[0, 2, 2, 7, 8, 6, 0, 5, 8, 9]</message>
+</record>
+<record>
+  <date>2023-04-21T10:16:35.107760400Z</date>
+  <millis>1682072195107</millis>
+  <nanos>760400</nanos>
+  <sequence>13</sequence>
+  <logger>My log</logger>
+  <level>INFO</level>
+  <class>Home_work2.Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[0, 2, 2, 7, 6, 8, 0, 5, 8, 9]</message>
+</record>
+<record>
+  <date>2023-04-21T10:16:35.109761Z</date>
+  <millis>1682072195109</millis>
+  <nanos>761000</nanos>
+  <sequence>14</sequence>
+  <logger>My log</logger>
+  <level>INFO</level>
+  <class>Home_work2.Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[0, 2, 2, 7, 6, 0, 8, 5, 8, 9]</message>
+</record>
+<record>
+  <date>2023-04-21T10:16:35.110762Z</date>
+  <millis>1682072195110</millis>
+  <nanos>762000</nanos>
+  <sequence>15</sequence>
+  <logger>My log</logger>
+  <level>INFO</level>
+  <class>Home_work2.Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[0, 2, 2, 7, 6, 0, 5, 8, 8, 9]</message>
+</record>
+<record>
+  <date>2023-04-21T10:16:35.111763600Z</date>
+  <millis>1682072195111</millis>
+  <nanos>763600</nanos>
+  <sequence>16</sequence>
+  <logger>My log</logger>
+  <level>INFO</level>
+  <class>Home_work2.Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[0, 2, 2, 6, 7, 0, 5, 8, 8, 9]</message>
+</record>
+<record>
+  <date>2023-04-21T10:16:35.112764700Z</date>
+  <millis>1682072195112</millis>
+  <nanos>764700</nanos>
+  <sequence>17</sequence>
+  <logger>My log</logger>
+  <level>INFO</level>
+  <class>Home_work2.Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[0, 2, 2, 6, 0, 7, 5, 8, 8, 9]</message>
+</record>
+<record>
+  <date>2023-04-21T10:16:35.113764600Z</date>
+  <millis>1682072195113</millis>
+  <nanos>764600</nanos>
+  <sequence>18</sequence>
+  <logger>My log</logger>
+  <level>INFO</level>
+  <class>Home_work2.Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[0, 2, 2, 6, 0, 5, 7, 8, 8, 9]</message>
+</record>
+<record>
+  <date>2023-04-21T10:16:35.114767200Z</date>
+  <millis>1682072195114</millis>
+  <nanos>767200</nanos>
+  <sequence>19</sequence>
+  <logger>My log</logger>
+  <level>INFO</level>
+  <class>Home_work2.Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[0, 2, 2, 0, 6, 5, 7, 8, 8, 9]</message>
+</record>
+<record>
+  <date>2023-04-21T10:16:35.115766700Z</date>
+  <millis>1682072195115</millis>
+  <nanos>766700</nanos>
+  <sequence>20</sequence>
+  <logger>My log</logger>
+  <level>INFO</level>
+  <class>Home_work2.Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[0, 2, 2, 0, 5, 6, 7, 8, 8, 9]</message>
+</record>
+<record>
+  <date>2023-04-21T10:16:35.116767400Z</date>
+  <millis>1682072195116</millis>
+  <nanos>767400</nanos>
+  <sequence>21</sequence>
+  <logger>My log</logger>
+  <level>INFO</level>
+  <class>Home_work2.Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[0, 2, 0, 2, 5, 6, 7, 8, 8, 9]</message>
+</record>
+<record>
+  <date>2023-04-21T10:16:35.117767800Z</date>
+  <millis>1682072195117</millis>
+  <nanos>767800</nanos>
+  <sequence>22</sequence>
+  <logger>My log</logger>
+  <level>INFO</level>
+  <class>Home_work2.Task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[0, 0, 2, 2, 5, 6, 7, 8, 8, 9]</message>
+</record>
+</log>
